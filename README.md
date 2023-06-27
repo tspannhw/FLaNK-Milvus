@@ -33,6 +33,22 @@ Juyter notebooks
 https://github.com/zilliztech/GPTCache
 
 
+### Meetup Location
+
+https://www.cloudera.com/about/locations.html
+
+https://www.meetup.com/futureofdata-princeton/
+
+https://www.meetup.com/futureofdata-newyork/
+
+https://www.meetup.com/futureofdata-toronto/
+
+https://www.meetup.com/futureofdata-triangle/
+
+https://www.meetup.com/futureofdata-atlanta/
+
+
+
 ### Resources
 
 https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data/tree/main
