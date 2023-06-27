@@ -5,9 +5,26 @@ Flink - NiFi - MiNiFi - Kafka - Milvus - Zilliz -Cloudera
 
 ### Streaming AI
 
+#### Use Cases
+
+* CDC: Milvus to Kafka/Flink/NiFi:  https://github.com/zilliztech/milvus-cdc
+
+
 ### Edge AI
 
+MiNiFi - Milvus
+
+
 ### Integration points
+
+Cloudera ML -> Milvus (AMP)
+
+Milvus -> Kafka
+
+
+### Projects of interest
+
+https://github.com/zilliztech/GPTCache
 
 
 ### Resources
