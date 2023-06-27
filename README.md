@@ -47,6 +47,7 @@ https://www.meetup.com/futureofdata-triangle/
 
 https://www.meetup.com/futureofdata-atlanta/
 
+https://www.flink-forward.org/seattle-2023 (Nov 2023)
 
 
 ### Resources
