@@ -3,6 +3,12 @@
 Flink - NiFi - MiNiFi - Kafka - Milvus - Zilliz -Cloudera
 
 
+````
+./runinsertmilvus.sh "Apache NiFi works with Apache Flink and Apache Kafka to provide the ultimate real-time streaming solution for all use cases"
+
+````
+
+
 ### Streaming AI
 
 #### Use Cases
