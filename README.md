@@ -8,6 +8,15 @@ Flink - NiFi - MiNiFi - Kafka - Milvus - Zilliz -Cloudera
 
 ````
 
+### Updated to Milvus 2.4
+
+### Example Output
+
+````
+{"uuid": "10607e43-5f26-4e62-a60e-2452d9fa4e06", "systemtime": "04/28/2024 14:13:40", "ts": 1714328020, "starttime": 1714328020, "endtime": 1714328020, "milvusinsertresult": "{'insert_count': 1, 'ids': [449398921271473400]}", "milvuscollectioname": "MilvusDocs", "milvusdocsource": "Medium", "maxseqlength": "512", "embeddingdim": "1024"}
+
+
+````
 
 ### Streaming AI
 
