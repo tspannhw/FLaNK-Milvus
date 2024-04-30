@@ -83,6 +83,8 @@ rownum = 0
 for r in results[0]:
     row = {}
     rownum = rownum + 1
+    row['id'] = str(r['id'])
+    row['distance'] = str (r['distance'])
     row['uuid'] = str(uuid.uuid4())
     row['systemtime'] = datetime.datetime.now().strftime('%m/%d/%Y %H:%M:%S')
     row['ts'] =  int( time.time() )
