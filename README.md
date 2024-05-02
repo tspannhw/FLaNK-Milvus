@@ -1,5 +1,8 @@
 # FLaNK-Milvus
 
+FLANK-AIM
+Flink - NiFi- Kafka - AI - Milvus
+
 Flink - NiFi - MiNiFi - Kafka - Milvus - Zilliz -Cloudera
 
 
